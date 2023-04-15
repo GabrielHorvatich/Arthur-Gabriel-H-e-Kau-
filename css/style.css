@@ -1,0 +1,46 @@
+body {
+    font-family: "Open Sans";
+    font-size: 1.5rem;
+}
+
+.header {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    font-size: 2rem;
+}
+
+.div-table {
+    padding-top: 2rem;
+}
+.table {
+    border: 2px solid black;
+    line-height: 3.5rem;
+    float: left;
+}
+.space {
+    padding-left: 5rem;
+}
+td {
+    padding-left: 6rem;
+}
+.btn {
+    color: blue;
+    width: 7rem;
+    height: 2rem;
+    border: 1px solid blue;
+    border-radius: 2px;
+    background-color: white;
+}
+.btn:hover {
+    color:white;
+    border: 1px solid blue;
+    background-color: blue;
+}
+.image-right {
+}
+img {
+    padding-left: 5rem;
+    width: 30rem;
+}
